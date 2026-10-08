@@ -1,0 +1,28 @@
+# Keil generated files
+*.o
+*.crf
+*.d
+*.lst
+*.axf
+*.hex
+*.map
+*.lnp
+*.htm
+*.dep
+*.bak
+*.iex
+*.uvguix.*
+
+# Keil build/output folders
+Listings/
+Objects/
+
+# IDE temporary files
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
